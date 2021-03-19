@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1501320921 source:e:\project\c++\signal\main.cpp
+	<iostream>
+	<csignal>
+	<windows.h>
+	<conio.h>
+

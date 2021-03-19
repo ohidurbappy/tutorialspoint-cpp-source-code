@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501180365 source:e:\project\c++\date time\main.cpp
+	<iostream>
+	<ctime>
+
